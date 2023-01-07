@@ -1,7 +1,7 @@
 # woundscales
 Year 250 
 
-[Strike the Earth](/pictures/strike_the_earth.PNG)
+![Strike the Earth](/pictures/strike_the_earth.PNG)
 
 > We left in spring, given a mission to fashion adamantine weapons and armor, and strike The Pits of Demonsqueeze, the dark goblin fortress to the north. A suicide mission to rid the King of some unwanted pests, I'm sure. King Aban Tekkudnol and our expedition leader, Fath Nabarastesh, seemed to have some row over a stonecutting. Personally, I think Fath may be fond of elves.
 >
